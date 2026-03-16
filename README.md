@@ -12,7 +12,7 @@ I then merged both queries in Power BI to create the attached report. Please rea
 
 # Spotity data representing latest played tracks as sample data for a PBI dashboard.
 For this project I extracted the 50 latest tracks I've played on my Spotify, and exported the data to a CSV file via Google Colab. This is the code I've used in my notebook, 
-if you'd like to use too just replace the missing fields with the data from your app in your Spotify Developers account:
+if you'd like to use it too just replace the missing fields with the data from your app in your Spotify Developers account. You'll need Client ID, Client Secret and URI:
 
     import spotipy
     from spotipy.oauth2 import SpotifyOAuth
