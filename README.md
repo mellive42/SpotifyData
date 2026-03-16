@@ -4,7 +4,8 @@ To complete this project I extracted my data in two ways:
     1. I requested my expanded listening history directly from Spotify, they provided a JSON file containing data from March 2025 to March 2026. 
     2. I extracted the data via Spotify's API and Google Colab using Python, exporting this into a CSV file.
 I then merged both queries in Power BI to create the attached report. Please read on below for the process in Google Colab.
-NOTE: I used a C:\DummyPath\Data.csv as parameters for the source path of the CSV and JSON file used in the report, to be able to view the report, you'll have to manually enter your local C:\ path (where you downloaded the files into) in Power Query, here:
+
+**NOTE:** I used a C:\DummyPath\Data.csv as parameters for the source path of the CSV and JSON file used in the report, to be able to view the report, you'll have to manually enter your local C:\ path (where you downloaded the files into) in Power Query, here:
 <img width="890" height="237" alt="image" src="https://github.com/user-attachments/assets/1dda2804-81e5-43db-82c4-cd8669fed0a5" />
 
 
