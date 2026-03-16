@@ -1,5 +1,12 @@
-# SpotifyData
-Spotity data representing latest played tracks as sample data for a PBI dashboard.
+# My Spotify Data
+
+To complete this project I extracted my data in two ways:
+    1. I requested my expanded listening history directly from Spotify, they provided a JSON file containing data from March 2025 to March 2026. 
+    2. I extracted the data via Spotify's API and Google Colab using Python, exporting this into a CSV file.
+I then merged both queries in Power BI to create the attached report. Please read on below for the process in Google Colab.
+
+
+# Spotity data representing latest played tracks as sample data for a PBI dashboard.
 For this project I extracted the 50 latest tracks I've played on my Spotify, and exported the data to a CSV file via Google Colab. This is the code I've used in my notebook, 
 if you'd like to use too just replace the missing fields with the data from your app in your Spotify Developers account:
 
