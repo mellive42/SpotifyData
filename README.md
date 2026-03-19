@@ -129,7 +129,7 @@ Here's a preview of the report I worked on, please feel free to download it to s
 
 <img width="1120" height="557" alt="image" src="https://github.com/user-attachments/assets/80113f83-230e-40ed-a373-c14b6b925cf6" />
 
-Open the rep[ort to see:
+Open the report to see:
     1. Dynamic visuals, 
     <img width="665" height="603" alt="image" src="https://github.com/user-attachments/assets/91740cda-52f5-47fa-a88d-03aeb9608342" />
     2. Tooltips
