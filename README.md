@@ -119,3 +119,20 @@ Then to export this data to a CSV file to use in Power BI:
 
 
 <img width="899" height="693" alt="Screenshot 2026-03-12 133225" src="https://github.com/user-attachments/assets/a25db0d0-64d5-4f21-bde1-bb62daab28ce" />
+
+
+# PBI Preview
+Here's a preview of the report I worked on, please feel free to download it to see it more in detail!
+<img width="1117" height="618" alt="image" src="https://github.com/user-attachments/assets/c59fe097-312d-4fa1-9507-f5dc7ab22ebe" />
+
+<img width="1119" height="598" alt="image" src="https://github.com/user-attachments/assets/702d7d22-f1f0-4cff-bf53-fe968a13527c" />
+
+<img width="1120" height="557" alt="image" src="https://github.com/user-attachments/assets/80113f83-230e-40ed-a373-c14b6b925cf6" />
+
+Open the rep[ort to see:
+    1. Dynamic visuals, 
+    <img width="665" height="603" alt="image" src="https://github.com/user-attachments/assets/91740cda-52f5-47fa-a88d-03aeb9608342" />
+    2. Tooltips
+    <img width="531" height="331" alt="image" src="https://github.com/user-attachments/assets/1bcab51e-dd9b-433f-90de-645ab8ec9090" />
+    3. Power query
+    <img width="1271" height="646" alt="image" src="https://github.com/user-attachments/assets/792c51f3-0cab-47a0-93b5-fb58dadeac5e" />
