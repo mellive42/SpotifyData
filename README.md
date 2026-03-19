@@ -130,9 +130,11 @@ Here's a preview of the report I worked on, please feel free to download it to s
 <img width="1120" height="557" alt="image" src="https://github.com/user-attachments/assets/80113f83-230e-40ed-a373-c14b6b925cf6" />
 
 Open the report to see:
-    1. Dynamic visuals
+1. Dynamic visuals
 <img width="665" height="603" alt="image" src="https://github.com/user-attachments/assets/91740cda-52f5-47fa-a88d-03aeb9608342" />
-    2. Tooltips
+
+2. Tooltips
 <img width="531" height="331" alt="image" src="https://github.com/user-attachments/assets/1bcab51e-dd9b-433f-90de-645ab8ec9090" />
-    3. Power query
+
+3. Power query
 <img width="1271" height="646" alt="image" src="https://github.com/user-attachments/assets/792c51f3-0cab-47a0-93b5-fb58dadeac5e" />
